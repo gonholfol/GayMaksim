@@ -1,0 +1,370 @@
+@media screen and (max-width: 2560px) {.cigar_map.rossiya {left: -25%;}
+	.cigar_map.franciya {left: -35%;}
+	.main_section .cigar_chain .smoke .smoke_1 {bottom: 345px;right: 555px;}
+	.main_section .cigar_chain .smoke .smoke_2 {bottom: 370px;right: 485px;}
+	.main_section .wine_chain picture:before {top: 490px;right: 580px;height: 170px;}
+	.main_section .wine_chain picture:after {top: 490px;right: 600px;height: 170px;}}
+@media screen and (max-width: 1940px) {.cigar_map.franciya {left: -65%;}
+	.main_section .chain_text {left: 150px;}
+	.main_section .cigar_chain picture {margin-right: -350px;}
+	.container {max-width: 1480px;}
+	.gs_carousel_option {margin-left: -100px;}
+	.gallery_section .gs_text {max-width: 700px;}
+	.cigar_map.rossiya {left: -55%;}
+	.blockquote_section .bs_wrap {max-width: 900px;}
+	.vinotheque_section .vs_carousel {margin-right: 50px;}
+	#mse2_results .product {width: calc(33% - 10px);}
+	.listing_article {width: calc(33% - 10px);}
+	.listing_article span {font-size: 18px;}
+	.main_section .cigar_chain .smoke .smoke_1 {bottom: 300px;right: 485px;}
+	.main_section .cigar_chain .smoke .smoke_2 {bottom: 325px;right: 410px;}
+	.main_section .wine_chain picture:before {top: 420px;right: 505px;height: 185px;}
+	.main_section .wine_chain picture:after {top: 420px;right: 530px;}}
+@media screen and (max-width: 1720px) {.header_contacts {display: none;}
+	.rest_map .rm_right {margin-left: 40px;}
+	.hyumidor_section .hs_carousel .owl-stage-outer {min-width: 90vw;}
+	.cigar_map.rossiya {left: -75%;}
+	.container {max-width: 1290px;}
+	header .phone_block a {font-size: 26px;}
+	header .phone_block span {font-size: 12px;}
+	.columns_text {margin-right: -50%;}
+	.product, .listing_article {width: calc(33% - 10px);}
+	.product_data {max-width: 700px;}
+	.cp_content {padding-right: 50px;}
+	.cp_content h1 {font-size: 30px;}
+	.blog_aside {min-width: 400px;max-width: 400px;}
+	.blog_aside h3 {font-size: 30px;}
+	.blog_aside .sticky {max-width: 400px;}
+	.best_article .title {font-size: 22px;}
+	.blog_item picture {height: 380px;margin-bottom: 30px;}
+	.blog_item picture img {height: 100%;}
+	.gs_carousel_option {margin-left: -75px;}
+	.gallery_section .gs_text {max-width: 50%;}
+	.events_listing .event {width: calc(33% - 30px);}
+	.events_listing .event_end {width: calc(33% - 30px);}}
+@media screen and (max-width: 1680px) {.cigar_map.kuba, .cigar_map.dominikanskaya-respublika {left: -30%;}
+	.gs_carousel_option {margin-left: 0;}
+	.gallery_section .gs_text {max-width: 33%;}
+	.gallery_section .gs_text h2 {font-size: 35px;}
+	.vinotheque_section h2, .vinotheque_section .h2 {font-size: 30px;}
+	.vinotheque_section blockquote span {font-size: 25px;}
+	.main_section .cigar_chain .smoke .smoke_1 {bottom: 330px;right: 525px;}
+	.main_section .wine_chain picture:after, .main_section .wine_chain picture:before {top: 460px;}
+	.main_section .cigar_chain .smoke .smoke_2 {bottom: 340px;right: 460px;}
+	.main_section .chain_cell.active .chain_text {bottom: 50px;}
+	.main_section .chain_cell .chain_text {left: 100px;}
+	.main_section .chain_cell .chain_text p {font-size: 18px;}
+	.main_section .chain_cell .chain_text p span {font-size: 40px;}}
+@media screen and (max-width: 1480px) {.catalog_toggle {padding: 0 10px;margin: 0 10px;}
+	header .fix_toggle {margin-left: 5px;}
+	header .soc {margin-left: 10px;margin-right: 10px;}
+	header .msMiniCart {margin-left: 10px;}
+	.menu_page .tags span {font-size: 14px;}
+	header nav li {margin: 0 10px;}
+	.content_page .text_block .sub_text {left: 100%;}
+	.rest_title video, .rest_title img {opacity: .8;}
+	.rest_title img {object-fit: cover;}
+	.rest_title:before {content: "";display: block;width: 100%;height: 100%;background: rgba(0,0,0,.7);position: absolute;top: 0;left: 0;z-index: 1;}
+	.content_page .text_container {max-width: 75%;}
+	.cigar_map.rossiya {left: -95%;}
+	.cigar_map.gonduras, .cigar_map.nikaragua {left: -30%;}
+	.main_section .cigar_chain picture {margin-right: -150px;max-width: 800px;}
+	.main_section .chain_text {max-width: 350px;min-width: 350px;}
+	.main_section .cigar_chain .smoke .smoke_1 {bottom: 225px;right: 360px;}
+	.main_section .cigar_chain .smoke .smoke_2 {bottom: 230px;right: 290px;}
+	.main_section .wine_chain picture:after {top: 310px;right: 410px;height: 145px;}
+	.main_section .wine_chain picture:before {top: 310px;right: 435px;height: 145px;}
+	.food_chain img {object-fit: contain;object-position: center right;}
+	.hyumidor_section .hs_content {min-width: 270px;width: 270px;}
+	.hyumidor_section .hs_content h2 {font-size: 30px;}
+	.hyumidor_section .hs_content ul a {font-size: 14px;padding: 15px;}
+	.hyumidor_section .hs_content ul li:nth-child(3) a:before {content: "";}
+	.hyumidor_section .hs_content ul li:nth-child(2) a:before, .hyumidor_section .hs_content ul li:nth-child(4) a:before {content: none;}
+	.wine, .wine ~ .listing_article {width: calc(50% - 10px);}}
+@media screen and (max-width: 1320px) {.walkline p {padding-right: 45px;font-size: .8rem;}
+	.menu_page .tags {flex-wrap: wrap;}
+	.menu_page .tags span {margin: 1px;}
+	header .soc {display: none;}
+	.instagallery .size_940x430 {width: 620px;}
+	.instagallery .size_940x430 img {object-fit: cover;}
+	.gedo_section .gs_carousel_option {height: auto;}
+	.cigar_map.rossiya {left: -115%;}
+	.container {max-width: 1190px;}
+	.gallery_section .gs_text {max-width: 100%;}
+	.gs_carousel_option {min-width: initial;max-width: 100%;height: 345px;}
+	.gallery_section .container {grid-template-columns: 50% 50%;}
+	.service_item picture {width: 760px;}
+	.service_title .container {flex-direction: column;}
+	.service_title_h1 {justify-content: start;align-items: start;margin-bottom: 25px;}
+	.service_title_h1 h1 {font-size: 3rem;}
+	.service_img_content {margin: 30px 0;}
+	.service_img_content .container {flex-direction: column-reverse;}
+	.service_img_content strong, .service_img_content h2, .service_img_content .h2 {position: static;}
+	.service_img_content picture {display: block;margin: 20px 0;}
+	.service_img_block.reverse-1 .container {flex-direction: column-reverse;}
+	.service_img_block.reverse-1 picture {margin: 20px 0;margin-right: 0;}
+	.service_img_block .container {align-items: start;flex-direction: column-reverse;}
+	.service_img_block picture {margin: 20px 0;margin-right: 0;}}
+@media screen and (max-width: 1280px) {.categories {margin-left: 15px;}}
+@media screen and (max-width: 1080px) {.container {max-width: 100%;padding: 0 35px;}
+	.rest_map .rm_right, .rest_map .rm_right .flex {margin-left: 0;}
+	#over_18 {max-width: 80%;}
+	.rest_map {overflow: hidden;}
+	.rest_map .flex {margin: 50px 0 0 50px;flex-direction: column;}
+	.rest_map picture {width: max-content;}
+	.cigar_map.rossiya {left: -65%;top: 0;}
+	.container-full {width: 100%;}
+	.cart_page h1 {text-align: center;}
+	.cart_page .container > .flex {flex-direction: column-reverse;}
+	.cart_page #msOrder {margin: 50px auto;}
+	.product_page_top .container-full {flex-direction: column;}
+	.product_page_top .product_gallery {margin: auto;}
+	.product_data {margin-top: 30px;max-width: 100%;padding: 30px 0;}
+	.product_data h1 {font-size: 3rem;}
+	.filter_sticky_wrap {display: none;}
+	.catalog_text {padding: 0;}
+	.content_page .author {position: static;display: flex;width: auto;align-items: center;justify-content: center;margin-top: 25px;}
+	.content_page .author picture {margin-right: 20px;}
+	.content_page .author p span {font-size: 24px;}
+	.content_page .text_container {max-width: 100%;}
+	.content_page .text_block .sub_text {position: static;width: 100%;margin: 50px 0 !important;padding: 10px;}
+	.columns_text {margin: 20px 0;flex-direction: column;}
+	.contacts_page .container {flex-direction: column;}
+	.vinotheque_section .svg {right: 80px;}
+	.gallery_section .container {grid-template-columns: 100%;}
+	.gs_carousel_option {height: 480px;margin: 30px auto;max-width: 830px;}
+	.vinotheque_section .container {grid-template-columns: 100%;}
+	.vinotheque_section .vs_content {padding: 0;}
+	.vinotheque_section .vs_carousel {margin: auto;}
+	.events_listing .event {width: calc(50% - 30px);}
+	.events_listing .event_end {width: calc(50% - 30px);}
+	.footer_bottom {padding-top: 30px;}
+	.cp_content {padding-right: 0;min-width: initial;}
+	.contacts_page #map {max-width: 100vw;width: 100%;height: 40vh;margin-left: -35px;}
+	.temp-9 .contact_form {display: none;}
+	.temp-9 ~ .fix_block {display: flex;}
+	.event_title picture img {height: 100%;object-fit: cover;opacity: .2;}
+	.vinotheque_section blockquote {justify-content: center;}
+	.hyumidor_section {padding: 100px 0 30px;}
+	.hyumidor_section .product {max-width: 420px;margin: auto;}
+	.hyumidor_section .hs_content {margin-top: 30px;}
+	.hyumidor_section .hs_content ul {margin-top: 5px;justify-content: center;}
+	.hyumidor_section .hs_content ul li a {padding: 15px;font-size: 14px;}
+	.hyumidor_section .hs_content ul li a:before {}
+	.hyumidor_section .hs_content .link {margin: auto;}
+	.hyumidor_section .hs_next {display: none;}
+	.hyumidor_section .container {flex-direction: column;}
+	.hyumidor_section h2 {text-align: center;font-size: 8vw;}
+	.hyumidor_section h2 br {display: none;}
+	.hyumidor_section .hs_content {margin-right: 0;margin-bottom: 30px;min-width: 100%;width: 100%;}
+	.service_item picture {width: 500px;}}
+@media screen and (max-width: 980px) {.temp-1 .gs_carousel_option, .temp-15 .gs_carousel_option {height: auto;min-width: initial;max-width: 100%;}}
+@media screen and (max-width: 768px) {.catalog_title {flex-direction: column;}
+	.walkline {bottom: 100%;top: auto;}
+	.gs_carousel_option img {filter: none;}
+	.mobile_filter_total {display: flex;align-items: center;}
+	.cigar_map.gonduras, .cigar_map.kuba, .cigar_map.nikaragua {left: -55%;top: -55%;}
+	.cigar_map.dominikanskaya-respublika {left: -10%;}
+	.breadcrumbs {margin-top: 45px;padding: 5px 30px;}
+	.breadcrumbs .container-full {width: 100%;padding: 0;}
+	.breadcrumbs .bread {overflow-x: scroll;padding-bottom: 5px;}
+	.breadcrumbs .bread li, .breadcrumbs .bread span {white-space: nowrap;}
+	.product_page_top .product_gallery {width: 100%;overflow: hidden;}
+	.product, .listing_article, .wine ~ .listing_article {width: calc(50% - 10px);}
+	.article_title {height: 420px;}
+	.extra_events_section .mes_title {align-items: center;flex-direction: column;}
+	.extra_events_section .tabs {width: auto;margin: 30px 0 0;}
+	.event_data .container {flex-direction: column;}
+	.event_shedule h2 {margin-bottom: 0;}
+	.guest {margin: 20px 0;width: 100%;}
+	.event_form {margin: 0 auto;}
+	.blog_aside {display: none;}
+	.blog_categories {overflow-x: scroll;border: none;padding-bottom: 10px;}
+	.blog_categories a {white-space: nowrap;padding: 15px 20px;}
+	.blog_page h1 {height: auto;font-size: 1.6rem;}
+	.blog_item picture {max-height: 200px;}
+	.blog_item .title {display: block;line-height: 1;font-size: 1.5rem;}
+	.blog_item .author_publish span, .blog_item .author_publish time {font-size: 12px;}
+	.mobile_toggle {display: block;display: block;width: 40px;height: 70px;position: relative;background: #edcc8f;border: none;margin: -20px 0 -20px 0;border-right: 1px solid #fff;}
+	.mobile_toggle:before {content: "";display: block;width: 6px;height: 6px;position: absolute;border-radius: 50%;left: 0;right: 0;margin: auto;background: #fff;bottom: 20%;}
+	.mobile_toggle span:before, .mobile_toggle span:after {content: "";display: block;width: 6px;height: 6px;position: absolute;border-radius: 50%;left: 0;right: 0;margin: auto;background: #fff;}
+	.mobile_toggle span:before {top: 20%;}
+	.mobile_toggle span:after {top: 0;bottom: 0;}
+	.blockquote_section {overflow: hidden;}
+	.bs_bg {right: -50px;width: 200vw;}
+	header nav {display: none;position: absolute;top: 100%;left: 0;background: #fff;width: 100%;}
+	header nav ul {flex-direction: column;}
+	header nav ul a {padding: 10px 5px;display: block;}
+	header.nav_open nav {display: block;}
+	header.nav_open .mobile_toggle {background: #dfaa69;}
+	header .msMiniCart {margin-left: auto;}
+	header .catalog_toggle {padding: 0;}
+	header .not_visible {flex-direction: column;margin-top: -625px;}
+	.categories {margin: 0;flex-wrap: wrap;}
+	.categories a {display: flex;flex-direction: column;justify-content: center;align-items: center;padding: 30px;border: none;position: relative;width: 50%;}
+	.blockquote_section {padding: 30px 0;}
+	.blockquote_section h3 {font-size: 4vw;}
+	.bs_bg:after, .bs_bg:before {top: 60px;right: 22%;}
+	.gallery_section {padding: 20px 0;}
+	.main_events_section .mes_title {align-items: center;}
+	.main_events_section .mes_title > span {font-size: 4vw;}
+	footer .work_time {margin: 15px 0;}
+	footer .container {flex-direction: column;}
+	footer .container .col {margin: 30px 0;}
+	.gs_carousel_option {height: auto;}
+	.gallery_section .gs_text {padding: 0;}
+	.bs_bg {height: auto;top: 0;left: auto;right: 0;width: 180%;}
+	.hyumidor_section .hs_carousel .product {margin: auto;min-width: initial;}
+	footer {padding-bottom: 100px;}
+	.cart_page #msOrder {max-width: 100%;margin-top: 10px;}
+	.cart_page h1 {font-size: 2rem;}
+	.cart_row {position: relative;}
+	.cart_row .delete_product {position: absolute;top: 0;right: 0;}
+	.cart_row .delete_product button {color: #000;}
+	.cart_row picture {display: none;}
+	.cart_row .title {font-size: 1.4rem;}
+	.cart_row .price {white-space: nowrap;}
+	.cart_row .count_block {margin-left: 0;}
+	.filter_toggle_mobile.active svg {fill: #dfaa69;}
+	.filter_sticky_wrap {position: fixed;bottom: 70px;z-index: 100;background: #fff;left: 0;display: none;width: 100%;padding: 30px;min-width: 100%;border-top: 2px solid rgba(223,170,105,.2);max-height: 70vh;overflow-y: scroll;}
+	.filter_sticky_wrap #mse2_filters {max-width: 100%;}
+	.rest_title video {right: auto;left: 0;}
+	.rest_title h1 {font-size: 1rem;}
+	.rest_title h1 span {font-size: 2rem;}
+	.rest_map .flex {margin-left: 0;}
+	.rest_map .flex h2, .rest_map .flex .h2 {font-size: 2rem;margin-bottom: 25px;}
+	.rest_bar {overflow: hidden;}
+	.rest_bar .container {flex-direction: column;}
+	.rest_bar .rounded {height: auto;max-width: 100%;margin-bottom: 75px;}
+	.rest_bar .rb_content {margin-left: 0;}
+	.rest_bar .rb_content h2, .rest_bar .rb_content .h2 {margin-top: 50px;margin-bottom: 25px;font-size: 2rem;}
+	.rest_bar .rb_content picture {top: -25px;}
+	.gedo_section h2, .gedo_section .h2 {margin-left: 0;padding: 0 35px;font-size: 1.4rem;}
+	.gedo_section .flex p {padding: 0 35px;}
+	.gedo_container {width: 100%;}
+	.gedo_container .gs_carousel:before, .gedo_container .gs_carousel:after, .gedo_container .gs_carousel .owl-stage-outer:before, .gedo_container .gs_carousel .owl-stage-outer:after {content: none;}
+	.instalist_control {width: calc(50% - 20px);}
+	.instagallery p {flex-direction: column;}
+	.instagallery p svg {margin: 0 auto 20px 0;}
+	.instagallery p span {font-size: 2rem;}
+	.instagallery img {object-fit: cover;}
+	.instagallery .size_300x210, .instagallery .size_300x430 {width: calc(50% - 10px);}
+	.instagallery .size_300x210 {height: 100px;}
+	.instagallery .size_300x430 {height: 220px;}
+	.instagallery .size_940x430 {width: calc(100% - 10px);height: 400px;}
+	.rest_tiblock .container {flex-direction: column-reverse;}
+	.rest_tiblock.reverse .container {flex-direction: column;}
+	.rest_tiblock.reverse .tiblock_content {margin: 20px 0 0;}
+	.rest_tiblock picture {width: auto;}
+	.rest_tiblock .tiblock_content {margin: 20px 0 0;}
+	.rest_tiblock .tiblock_content h2, .rest_tiblock .tiblock_content .h2 {font-size: 2rem;}
+	.service_item {flex-direction: column;align-items: start;}
+	.service_item picture {display: block;width: 100%;}
+	.service_item-text {padding: 20px 0 0;}}
+@media screen and (max-width: 550px) {.service_title_h1 h1 {font-size: 2rem;text-align: left;margin-bottom: 5px;}
+	.service_title_h1 h1 span {font-size: 12px;margin-bottom: -5px;}
+	.service_title_h1 button {height: 30px;}
+	.service_list li {font-size: 1rem;}
+	.service_img_content h2, .service_img_content .h2 {font-size: 1rem;}
+	.service_img_content p {font-size: 1rem;margin: 5px 0;}
+	.service_img_block {margin: 30px 0;}
+	.service_img_block h2, .service_img_block .h2 {font-size: 1.4rem;}
+	.service_list h2, .service_list .h2 {font-size: 1.4rem;max-width: 100%;}
+	.share {display: none !important;}
+	.service_item-text span {font-size: 1.5rem;}
+	#over_18 {max-width: 90%;padding: 30px 15px;}
+	#over_18 .o18_logo {width: 80%;height: 50px;}
+	#over_18 .angle {display: none;}
+	.catalog_all a {min-width: 100%;}
+	.photo_report .ewidth, .photo_report picture {width: 45%;}
+	.rest_custom {flex-direction: column;padding: 0;}
+	.rest_custom p {font-size: 16px;text-align: center;}
+	.fix_block .warning p {font-size: 12px;margin: 0;}
+	.fix_block form .flex {margin: 10px -10px;}
+	.input {margin: 15px 0;}
+	.fancybox__container .fix_block button[type=submit] {margin-top: 10px;}
+	.cigar_map.rossiya {left: -155%;}
+	.cigar_map.ssha {left: -55%;}
+	.cigar_map.meksika {left: -35%;}
+	#mse2_results .product {width: calc(100% - 10px);}
+	.hyumidor_section .hs_content ul a:before {content: "" !important;}
+	.listing_article:before, .listing_article:after {content: none;}
+	.listing_article span {max-width: 100%;}
+	body.swal2-toast-shown .swal2-container.swal2-top-end, body.swal2-toast-shown .swal2-container.swal2-top-right {top: auto !important;bottom: 80px !important;}
+	.cart_control .flex {flex-direction: column;}
+	.cart_control .flex label {margin: 5px 0;}
+	.cart_row {flex-wrap: wrap;}
+	.cart_row .pagetitle {width: 100%;margin-bottom: 15px;}
+	.catalog_categories {display: none;}
+	.product_options {flex-direction: column;margin: 30px 0;}
+	.product_options ul {width: 100%;margin: 0;}
+	#mse2_sort {margin: 0;}
+	.product_data h1 {font-size: 2rem;}
+	.product_data form .flex {flex-direction: column;}
+	.product_data form .flex button {margin-top: 20px;}
+	.product_form_control span {justify-content: center;width: 100%;white-space: nowrap;}
+	.product_page_top .product_gallery {margin: 0 -5%;width: 110%;height: auto;}
+	.product_page_top .product_gallery .pg_bg {max-width: 200%;left: 0;top: 0;height: 100%;}
+	.temp-2 h1 {margin-bottom: 5px;text-align: center;font-size: 2rem;}
+	.event_title .container {flex-direction: column;justify-content: flex-end;}
+	.event_title h1 {font-size: 2rem;}
+	.product, .listing_article, .wine ~ .listing_article {width: 100%;margin: 15px 0;}
+	.event_end_title .event_date {margin: 0 auto 0 0;align-items: center;display: flex;}
+	.event_end_title .event_date small {margin-left: 10px;}
+	.product .price span {font-size: 19px;}
+	.photo_report .pr_title {flex-direction: column;}
+	.photo_report .pr_title a {margin: 0;}
+	.photo_report .flex {flex-wrap: nowrap;overflow-x: scroll;}
+	.photo_report .flex picture {margin: 0 10px 0 0;min-width: fit-content;}
+	.event_end_title .container {flex-direction: column;justify-content: flex-end;}
+	.event_end_title h1 {font-size: 1.4rem;}
+	.extra_events_section .mes_title > span {white-space: initial;text-align: center;font-size: 2.5rem;}
+	.article_title {height: auto;min-height: 250px;display: flex;align-items: end;}
+	.article_title h1 {font-size: 1.4rem;}
+	.content_page .start_text .col {padding: 20px 0;}
+	.content_page .start_text .col p {font-size: 1.2rem;}
+	.content_page .text_block {padding: 20px 0;}
+	.text ul {padding-left: 40px;}
+	.bg_text {padding: 50px 60px 30px 20px;}
+	.bg_text h2 {font-size: 1.4rem;}
+	.bg_text p {font-size: .5rem;}
+	.text h2, .text .h2, .text h3, .text .h3 {line-height: 1;}
+	.text h2, .text .h2 {font-size: 2rem;}
+	.text h3, .text .h3 {font-size: 1.5rem;}
+	.tabs {overflow-x: scroll;border: none;padding-bottom: 10px;}
+	.tabs span {white-space: nowrap;padding: 10px 15px;}
+	.blockquote_section .flex {flex-direction: column;}
+	.blockquote_section .svg {margin-bottom: 30px;}
+	.main_events_section .mes_title {flex-direction: column;}
+	.main_events_section .mes_title > span {font-size: 9vw;margin-bottom: 20px;}
+	.main_events_section .tabs {margin: 0;}
+	.events_listing .event {width: 100%;}
+	.events_listing .event_end {width: 100%;}
+	.vinotheque_section .svg {top: -135px;right: -50px;}
+	.header_contacts {display: none;}
+	.fix_block {display: none !important;}
+	.fix_block.active {max-width: 80vw;}
+	.fix_block form .flex {flex-wrap: wrap;}
+	.fix_block form .flex label {width: 100%;}
+	.fix_block form p {font-size: 6vw;}
+	.fix_block .fix_button {bottom: 0;width: 100vw;height: 30px;}
+	.fix_block .fix_button span {writing-mode: initial;}
+	.wine_slide picture {width: 100px;position: absolute;top: 60px;}
+	.wine_slide .wine_name {font-size: 8vw;padding-top: 5px;}
+	.wine_slide .wine_rate {padding: 30px 30px 60px 125px;margin: 0;}
+	.wine_slide .wine_slide_content .wsc_wrap {padding: 60px 30px 60px 130px;}
+	.vinotheque_section blockquote {flex-direction: column;}
+	.vinotheque_section blockquote p {display: block;width: 100%;max-width: 80%;margin: 30px auto;}
+	.vinotheque_section blockquote span {font-size: 18px;max-width: 100%;}
+	.main_events_section {margin: 20px 0 100px;}
+	.vinotheque_section h2, .vinotheque_section .h2 {max-width: 100%;}
+	.hyumidor_section .hs_content ul a {padding: 15px 20px;}
+	.footer_bottom .flex {flex-direction: column;}
+	.rest_map picture {display: none;}
+	.rest_map .container {position: static;}
+	.rest_map .flex h2, .rest_map .flex .h2 {font-size: 1.4rem;}
+	.rest_map p {font-size: .9rem;}
+	.icon_link span {font-size: .8rem;}}
+@media screen and (max-width: 350px) {.cigar_map.rossiya {left: -175%;}
+	.cigar_map.franciya {left: -75%;}
+	.fancybox__content {padding: 20px !important;overflow-y: scroll;}}
